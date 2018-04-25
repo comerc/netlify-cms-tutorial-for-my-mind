@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: comerc/netlify-cms-tutorial-for-my-mind-2
 
 media_folder: static/assets
 
